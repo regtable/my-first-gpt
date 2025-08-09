@@ -1,0 +1,4 @@
+# Global Instructions
+- This file ensures that the GPT only works in scope for the authenticated GitHub user.
+mode: multi-user
+user_scope: "github:{user_login}"
