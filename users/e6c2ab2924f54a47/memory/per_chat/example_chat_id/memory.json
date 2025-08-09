@@ -1,0 +1,7 @@
+{
+  "chat_id": "example_chat_id",
+  "messages": [
+    "This is an example per-chat memory.",
+    "Example: user said they like green tea."
+  ]
+}
